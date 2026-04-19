@@ -12,8 +12,9 @@ A desktop implementation of **Conway's Game of Life** built with WPF and C#. Wat
 
 ## Preview
 
-> 📸 _Add a GIF or screenshot here — record your screen with [ScreenToGif](https://www.screentogif.com/) (free), save as `assets/demo.gif`, then replace this line with:_
-> `![Demo](assets/demo.gif)`
+![Demo](GameOfLife/GameOfLife/assets/demo.gif)
+
+![Screenshot](GameOfLife/GameOfLife/assets/screenshot.png)
 
 ---
 
