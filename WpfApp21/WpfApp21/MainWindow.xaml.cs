@@ -6,7 +6,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Shapes;
 
-namespace WpfApp21
+namespace GameOfLife
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
